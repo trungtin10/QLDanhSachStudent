@@ -1,0 +1,5 @@
+﻿Build started at 12:12 PM...
+1>------ Build started: Project: QLDanhsachStudent, Configuration: Debug Any CPU ------
+1>  QLDanhsachStudent -> C:\Users\Trung Tin\source\repos\QLDanhsachStudent\QLDanhsachStudent\bin\Debug\QLDanhsachStudent.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 12:12 PM and took 00.845 seconds ==========
