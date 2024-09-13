@@ -1,0 +1,7 @@
+C:\Users\Trung Tin\source\repos\QLDanhsachStudent\QLDanhsachStudent\bin\Debug\QLDanhsachStudent.exe.config
+C:\Users\Trung Tin\source\repos\QLDanhsachStudent\QLDanhsachStudent\bin\Debug\QLDanhsachStudent.exe
+C:\Users\Trung Tin\source\repos\QLDanhsachStudent\QLDanhsachStudent\bin\Debug\QLDanhsachStudent.pdb
+C:\Users\Trung Tin\source\repos\QLDanhsachStudent\QLDanhsachStudent\obj\Debug\QLDanhsachStudent.csproj.AssemblyReference.cache
+C:\Users\Trung Tin\source\repos\QLDanhsachStudent\QLDanhsachStudent\obj\Debug\QLDanhsachStudent.csproj.CoreCompileInputs.cache
+C:\Users\Trung Tin\source\repos\QLDanhsachStudent\QLDanhsachStudent\obj\Debug\QLDanhsachStudent.exe
+C:\Users\Trung Tin\source\repos\QLDanhsachStudent\QLDanhsachStudent\obj\Debug\QLDanhsachStudent.pdb
